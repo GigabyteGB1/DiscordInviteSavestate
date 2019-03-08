@@ -1,4 +1,4 @@
-# Discord Invite in JS, HTML and CSS
+# Discord Invite in JS, HTML and CSS, CREDIT FOR JS/CSS TO <a href="https://github.com/Aegis7Gaming/Discord-Invite-JS-HTML-CSS">Aegis7Gaming</a>
 A very-close-to-native Discord Invite script for websites.
 
 Example:  
