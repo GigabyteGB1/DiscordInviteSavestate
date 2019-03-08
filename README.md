@@ -1,11 +1,8 @@
 # Discord Invite in JS, HTML and CSS, CREDIT FOR JS/CSS TO <a href="https://github.com/Aegis7Gaming/Discord-Invite-JS-HTML-CSS">Aegis7Gaming</a>
 A very-close-to-native Discord Invite script for websites.
 
-Example:  
-![Example of Discord Invite](example.png?raw=true "Discord Invite Example: Aegis7 Gaming")
-
 miniMode Example:  
-![Example of Discord Invite in miniMode](example-mini.png?raw=true "Discord Invite Example: Aegis7 Gaming (miniMode)")
+![Example of Discord Invite in miniMode](Screenshot from 2019-03-08 23-45-09.png?raw=true "Discord Invite Example: Savestate Discord (miniMode)")
 
 
 ## Why
@@ -42,31 +39,6 @@ As a huge fan of minimalist design and a fan of the Invite box, I thought it wou
     ```html
     <div id="discordInviteBox"></div>
     ```
-
-### Optional Values, default values are in (brackets)
-`title` ('String')  
-You can provide a default server name. The name will be replaced by whatever the invite code returns but it is good to have something there until the data is returned from Discord. Setting it to your current server name is a good idea.
-
-`miniMode` (false)  
-A cut down version of the invite box.
-
-`width` ('385px')  
-You can specify width as either 'auto', % or number (px). Alternatively, it can accept any CSS value as a string such as 'inherit' or '100w'.
-
-`joinText` ('Join') and `joinedText` ('Joined')  
-You can change the button text of the Join action to something else, as well as when the person clicks it.
-
-`introText` ('YOU\'VE BEEN INVITED TO A SERVER')  
-You can change the introText to something else.
-
-`hideIntro` (false)  
-You can hide the intro text
-
-## Aegis7 Gaming
-<a href="https://aegis7.com"><img src="https://aegis7.com/ag7logo.png" width=200></a>  
-A gaming community with thousands of Discord users from all across the globe.  
-[Join us on Discord: https://ag7.gg]
-
 ## No Support, 'as is'.
 Please do not contact us for any support. We will do our best to provide updates when necessary and willing to accept pull requests but you should not expect us to fix issues for you, walk you through how to deploy this or anything of that nature.
 
