@@ -2,7 +2,7 @@
 A very-close-to-native Discord Invite script for websites.
 
 miniMode Example:  
-![Example of Discord Invite in miniMode](Screenshot from 2019-03-08 23-45-09.png?raw=true "Discord Invite Example: Savestate Discord (miniMode)")
+![Example of Discord Invite in miniMode](minisavestate.png?raw=true "Discord Invite Example: Savestate Discord (miniMode)")
 
 
 ## Why
