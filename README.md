@@ -39,6 +39,7 @@ As a huge fan of minimalist design and a fan of the Invite box, I thought it wou
     ```html
     <div id="discordInviteBox"></div>
     ```
+    
 ## No Support, 'as is'.
 Please do not contact us for any support. We will do our best to provide updates when necessary and willing to accept pull requests but you should not expect us to fix issues for you, walk you through how to deploy this or anything of that nature.
 
